@@ -1730,7 +1730,7 @@ function App() {
     });
     useEffect(() =>{location(data)},[]);
     async function location(c) {
-        let d= await axios.get('http://api.openweathermap.org/geo/1.0/direct?q='+c+'&limit=1&appid=f96e2015395c03e4d7e70c0d6d6a98fc');
+        let d= await axios.get('https://api.openweathermap.org/geo/1.0/direct?q='+c+'&limit=1&appid=f96e2015395c03e4d7e70c0d6d6a98fc');
         console.log(d.data.lenght)
         updateloc(d.data[0]);
         let w= await axios.get('https://api.openweathermap.org/data/2.5/onecall?lat='+d.data[0].lat+'&lon='+d.data[0].lon+'&appid=f96e2015395c03e4d7e70c0d6d6a98fc&units=metric');
