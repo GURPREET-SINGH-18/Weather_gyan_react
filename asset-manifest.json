@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.839bef9d.css",
-    "main.js": "/static/js/main.c2dad12d.js",
-    "static/js/787.d62d1c65.chunk.js": "/static/js/787.d62d1c65.chunk.js",
-    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/index.html",
-    "main.839bef9d.css.map": "/static/css/main.839bef9d.css.map",
-    "main.c2dad12d.js.map": "/static/js/main.c2dad12d.js.map",
-    "787.d62d1c65.chunk.js.map": "/static/js/787.d62d1c65.chunk.js.map"
+    "main.css": "/Weather_gyan_react/static/css/main.455fba1a.css",
+    "main.js": "/Weather_gyan_react/static/js/main.7559fe84.js",
+    "static/js/787.d62d1c65.chunk.js": "/Weather_gyan_react/static/js/787.d62d1c65.chunk.js",
+    "static/media/revicons.eot": "/Weather_gyan_react/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Weather_gyan_react/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Weather_gyan_react/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Weather_gyan_react/index.html",
+    "main.455fba1a.css.map": "/Weather_gyan_react/static/css/main.455fba1a.css.map",
+    "main.7559fe84.js.map": "/Weather_gyan_react/static/js/main.7559fe84.js.map",
+    "787.d62d1c65.chunk.js.map": "/Weather_gyan_react/static/js/787.d62d1c65.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.839bef9d.css",
-    "static/js/main.c2dad12d.js"
+    "static/css/main.455fba1a.css",
+    "static/js/main.7559fe84.js"
   ]
 }
